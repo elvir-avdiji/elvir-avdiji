@@ -11,7 +11,7 @@
 <li name="twitter">Twitter:<a href="https://twitter.com/ElvirAvdiji"> ElvirAvdiji</a></li>
 <li name="discord">Discord: _elvir_avdiji_#9791</li>
 </ul>
-<h2>Programming Languages 1</h2>
+<h2>Programming Languages 2</h2>
 <ol>
 <li> Python</li>
 <li>C++</li>
